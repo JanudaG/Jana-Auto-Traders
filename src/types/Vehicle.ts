@@ -27,6 +27,7 @@ export interface Vehicle {
   returnPolicy?: string
   minimumOrderQuantity?: number
   tags?: string[]
+  images: string[];
 }
 
 // This defines the structure of the overall API response
