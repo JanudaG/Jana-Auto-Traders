@@ -27,7 +27,7 @@ onMounted(fetchFeatured)
   <!-- Hero -->
   <section class="bg-gradient-to-br from-gray-900 via-blue-950 to-gray-900 text-white py-20 px-4">
     <div class="max-w-4xl mx-auto text-center">
-      <p class="text-blue-400 font-semibold text-sm uppercase tracking-widest mb-3">Welcome to Jana DriveSelect</p>
+      <p class="text-blue-400 font-semibold text-sm uppercase tracking-widest mb-3">Welcome to Jana Auto Traders</p>
       <h1 class="text-4xl sm:text-5xl font-black leading-tight mb-5">
         Find Your Perfect <span class="text-blue-400">Vehicle</span>
       </h1>

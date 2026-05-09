@@ -53,7 +53,7 @@ const isActive = (path: string) => route.path === path;
           <span
             class="text-lg font-black text-gray-800 dark:text-white tracking-tighter"
           >
-            DRIVESELECT</span
+            AUTO TRADERS</span
           >
         </div>
       </RouterLink>
